@@ -1,0 +1,33 @@
+body {
+    background-color: #80A2AE;
+    font-family: Arial;
+    font-size: 18px;
+    margin: 0;
+}
+
+/* Цвет хедера */
+.header-bg {
+  display: block;
+  background: #00B0D8;
+ }
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
