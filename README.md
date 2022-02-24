@@ -1,1 +1,1 @@
-Сайт Gnu/Linux Club
+Сайт Linux/Club
